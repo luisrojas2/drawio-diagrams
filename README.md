@@ -1,6 +1,6 @@
 # diagrams.net Diagrams
 
-Click on a title to open a diagram or go to File, Open from, URL and enter an URL of the form
+Click on a title to open a diagram or go to File, Open from, URL, and enter the URL of the form
 https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/diagrams/schema.xml
 
 * <a href="https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fdiagrams%2Fbulb.xml" target="_blank">Bulb:</a> Flowchart Example
